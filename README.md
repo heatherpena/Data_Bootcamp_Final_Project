@@ -14,4 +14,5 @@ I acknowledge that a failure to abide by NYU Stern Honor Code will result in a f
 
 
 Project Description
+
 We are exploring the key components of a Best Picture and how they compare to the average movie. The overall analysis will be concluded with a hypothetical film that makes use of the results of our report as a viable candidate for Best Picture Winner. This report is conducted using two data sets: one containing every movie released within a specified range, while the other containing the metrics of all Best Picture Oscar Winners within those years. We will be analyzing these films through the use of the following original variables: name, budget, company, country, director, genre, gross, rating, released, runtime, score, star, votes, writer, nominations, metacritic, and year. 

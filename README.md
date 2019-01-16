@@ -8,6 +8,7 @@ Clearly acknowledged the work and efforts of others when submitting written work
 
 
 And I understand that:
+
 Submitting the same or substantially similar work in multiple courses, either in the same semester or in a different semester, without the express approval of all instructors is strictly forbidden.
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for the project and course.
 
